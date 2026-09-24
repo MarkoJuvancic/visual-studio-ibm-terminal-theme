@@ -6,7 +6,9 @@ A Visual Studio 2026 theme inspired by IBM 3270 terminals and ISPF-style interfa
 
 ## Screenshots
 
-> Screenshots coming soon.
+![IBM Terminal theme in the Visual Studio 2026 C# editor, with a selected block](docs/screenshots/ibm-terminal-csharp.png)
+
+*C# editor with semantic highlighting and a selected block.*
 
 ## Design
 
